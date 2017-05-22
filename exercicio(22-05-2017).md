@@ -1,6 +1,6 @@
 # Ext 3
 
-  Cluster size: 			            1KB to 4 KB 
+  Cluster size: 			            1 KB to 4 KB 
   
   Maximum partition size:	        4 TB
   
